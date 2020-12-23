@@ -1,1 +1,2 @@
 # Quits-Moking-Record-Tool
+The Quits Moking Record Tool is a lifestyle tool that helps smokers keep track of how many cigarettes they smoke each day. Users can click the start button of the app every time they smoke, and record this time. Then you can clearly see your smoking status and frequency every day through the horizontal table.For more comments and suggestions, please contact us: "Quits-Moking-Record-Tool" official email: cxyaqqsqiu@hotmail.com
